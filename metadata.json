@@ -1,0 +1,8 @@
+{
+  "name": "Inkplainer",
+  "description": "Free whiteboard animation maker. Turn images and text into hand-drawn explainer videos with multiple animation styles, layer editing, and video export.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
